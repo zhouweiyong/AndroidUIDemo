@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/guaguaka/guaguaka.iml" filepath="$PROJECT_DIR$/guaguaka/guaguaka.iml" />
       <module fileurl="file://$PROJECT_DIR$/indicator/indicator.iml" filepath="$PROJECT_DIR$/indicator/indicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysurfaceview/mysurfaceview.iml" filepath="$PROJECT_DIR$/mysurfaceview/mysurfaceview.iml" />
       <module fileurl="file://$PROJECT_DIR$/wchatmainui/wchatmainui.iml" filepath="$PROJECT_DIR$/wchatmainui/wchatmainui.iml" />
       <module fileurl="file://$PROJECT_DIR$/wchatphoto/wchatphoto.iml" filepath="$PROJECT_DIR$/wchatphoto/wchatphoto.iml" />
     </modules>
