@@ -205,6 +205,7 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
             this.mSurfaceHolder.unlockCanvasAndPost(lockCanvas);
         }
 
+        //绘制的对象
         class DrawItem {
             int x, y;
             boolean isVertical, isHorizontal;

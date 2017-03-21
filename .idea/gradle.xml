@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/camera" />
             <option value="$PROJECT_DIR$/guaguaka" />
             <option value="$PROJECT_DIR$/indicator" />
             <option value="$PROJECT_DIR$/mysurfaceview" />
