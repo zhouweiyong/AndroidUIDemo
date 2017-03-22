@@ -1,1 +1,1 @@
-include ':app', ':wchatphoto', ':wchatmainui', ':indicator', ':guaguaka', ':mysurfaceview', ':camera'
+include ':app', ':wchatphoto', ':wchatmainui', ':indicator', ':guaguaka', ':mysurfaceview', ':camera', ':imagedemo'
