@@ -9,5 +9,17 @@
         android:id="@+id/btn1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="修改图片" />
+        android:text="修改图片色相\饱和度\亮度" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过矩阵修改图片颜色" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过像素点改变改变图片的显示" />
 </LinearLayout>

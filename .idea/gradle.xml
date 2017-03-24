@@ -18,19 +18,7 @@
             <option value="$PROJECT_DIR$/wchatphoto" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/camera" />
-            <option value="$PROJECT_DIR$/guaguaka" />
-            <option value="$PROJECT_DIR$/imagedemo" />
-            <option value="$PROJECT_DIR$/indicator" />
-            <option value="$PROJECT_DIR$/mysurfaceview" />
-            <option value="$PROJECT_DIR$/wchatmainui" />
-            <option value="$PROJECT_DIR$/wchatphoto" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
