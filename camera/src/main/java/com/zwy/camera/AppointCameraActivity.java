@@ -37,7 +37,8 @@ public class AppointCameraActivity extends Activity implements View.OnClickListe
     @Override
     public void onClick(View view) {
         if (view.getId() == R.id.btn1) {
-            path = getExternalCacheDir().getAbsolutePath() + "/image02.jpg";
+            path = Environment.getExternalStorageDirectory().getAbsolutePath() + "/image02.jpg";
+            Log.i("zwy",path);
             Uri uri = Uri.fromFile(new File(path));
             Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
             intent.putExtra(MediaStore.EXTRA_OUTPUT, uri);
