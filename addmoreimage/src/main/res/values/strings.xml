@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PinBao_Add_More_Photo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="common_camera">拍照</string>
+    <string name="common_gallery">从相册选择</string>
+    
+    <string name="onepmall_photoes">相册</string>
+
+</resources>
