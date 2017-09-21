@@ -23,6 +23,7 @@ public class KSlideMenuActivity extends Activity implements View.OnClickListener
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kslidemenu);
         initView();
+
     }
 
     private void initView() {
